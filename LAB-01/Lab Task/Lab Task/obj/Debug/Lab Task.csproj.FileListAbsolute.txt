@@ -1,0 +1,8 @@
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-01\Lab Task\Lab Task\bin\Debug\Lab Task.exe.config
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-01\Lab Task\Lab Task\bin\Debug\Lab Task.exe
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-01\Lab Task\Lab Task\bin\Debug\Lab Task.pdb
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-01\Lab Task\Lab Task\obj\Debug\Lab Task.csproj.AssemblyReference.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-01\Lab Task\Lab Task\obj\Debug\Lab Task.csproj.SuggestedBindingRedirects.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-01\Lab Task\Lab Task\obj\Debug\Lab Task.csproj.CoreCompileInputs.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-01\Lab Task\Lab Task\obj\Debug\Lab Task.exe
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-01\Lab Task\Lab Task\obj\Debug\Lab Task.pdb
