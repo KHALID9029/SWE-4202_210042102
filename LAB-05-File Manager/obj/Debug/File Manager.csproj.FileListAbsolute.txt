@@ -1,0 +1,11 @@
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\bin\Debug\File Manager.exe.config
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\bin\Debug\File Manager.exe
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\bin\Debug\File Manager.pdb
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\obj\Debug\File Manager.csproj.AssemblyReference.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\obj\Debug\File Manager.csproj.SuggestedBindingRedirects.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\obj\Debug\File_Manager.Form1.resources
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\obj\Debug\File_Manager.Properties.Resources.resources
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\obj\Debug\File Manager.csproj.GenerateResource.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\obj\Debug\File Manager.csproj.CoreCompileInputs.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\obj\Debug\File Manager.exe
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-05\File Manager\obj\Debug\File Manager.pdb
