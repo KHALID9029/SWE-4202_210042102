@@ -1,0 +1,11 @@
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\bin\Debug\Lab-03-Banking System.exe.config
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\bin\Debug\Lab-03-Banking System.exe
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\bin\Debug\Lab-03-Banking System.pdb
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\obj\Debug\Lab-03-Banking System.csproj.AssemblyReference.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\obj\Debug\Lab-03-Banking System.csproj.SuggestedBindingRedirects.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\obj\Debug\Lab_03_Banking_System.Form1.resources
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\obj\Debug\Lab_03_Banking_System.Properties.Resources.resources
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\obj\Debug\Lab-03-Banking System.csproj.GenerateResource.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\obj\Debug\Lab-03-Banking System.csproj.CoreCompileInputs.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\obj\Debug\Lab-03-Banking System.exe
+E:\Class Resources-2nd sem\SWE-4202-LAB\LAB-03\Lab-03-Banking System\obj\Debug\Lab-03-Banking System.pdb
