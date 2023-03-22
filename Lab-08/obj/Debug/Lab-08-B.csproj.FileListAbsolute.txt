@@ -1,0 +1,8 @@
+E:\Class Resources-2nd sem\SWE-4202-LAB\Lab-08-B\Lab-08-B\bin\Debug\Lab-08-B.exe.config
+E:\Class Resources-2nd sem\SWE-4202-LAB\Lab-08-B\Lab-08-B\bin\Debug\Lab-08-B.exe
+E:\Class Resources-2nd sem\SWE-4202-LAB\Lab-08-B\Lab-08-B\bin\Debug\Lab-08-B.pdb
+E:\Class Resources-2nd sem\SWE-4202-LAB\Lab-08-B\Lab-08-B\obj\Debug\Lab-08-B.csproj.AssemblyReference.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\Lab-08-B\Lab-08-B\obj\Debug\Lab-08-B.csproj.SuggestedBindingRedirects.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\Lab-08-B\Lab-08-B\obj\Debug\Lab-08-B.csproj.CoreCompileInputs.cache
+E:\Class Resources-2nd sem\SWE-4202-LAB\Lab-08-B\Lab-08-B\obj\Debug\Lab-08-B.exe
+E:\Class Resources-2nd sem\SWE-4202-LAB\Lab-08-B\Lab-08-B\obj\Debug\Lab-08-B.pdb
